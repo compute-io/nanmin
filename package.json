@@ -25,7 +25,16 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "min",
+    "minimum",
+    "missing values",
+    "nan",
+    "array"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/nanmin/issues"
